@@ -1,0 +1,287 @@
+nav li
+{
+    display:inline;
+    font-family: 'Lobster Two', cursive;
+    font-size: 140%;
+    margin-bottom: 100px;
+}
+
+a:hover
+{
+    background-color:blue;
+    text-decoration: underline;
+}
+#navigation
+{
+    color:white;
+    text-decoration: none;  
+    
+}
+header{
+    position: fixed;
+}
+
+
+#logo
+{
+    width:100px;
+}
+#mainpic
+{
+    width:950px;   
+    padding-top: 120px; 
+}
+.headerbackground{
+    background: black;
+
+}
+#firstcolumnpic{
+   width:305px;
+   height:300px;
+
+}
+
+#secondcolumnpic
+{
+    width:305px;
+    height:300px;
+}
+
+#thirdcolumnpic
+{
+    width:307px;
+    height:300px;
+}
+#licensecontent
+{
+    color:putrple;
+    font-size: 150%;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+}
+#licenseheading{
+    color:black;
+    font-size: 300%;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+
+}
+#rowspic
+{
+    width:300px;
+    height: 380px;
+}
+#firstrow
+{
+    font-family: 'Kaushan Script', cursive;
+    color: darkblue;
+    font-size: 110%;
+}
+#secondrow
+{
+    font-family: 'Kaushan Script', cursive; 
+    color: darkblue;
+    font-size: 110%;
+}
+#thirdrow
+{
+    font-family: 'Kaushan Script', cursive;
+    color: darkblue;
+    font-size: 110%;
+}
+#helpfirstpic
+{
+    width:380px;
+    height:300px;
+}
+
+#helpsecondpic
+{
+    width:380px;
+    height:340px;
+}
+
+#helpcontent
+{
+    color:skyblue;
+    font-family:  serif;
+    font-size: 200%;
+    text-align: center;
+}
+.ChatNowbutton
+{
+    color: white;
+    background: skyblue;
+    margin-left: 200px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 100%;
+}
+#icons{
+    color:white;
+    text-align: left;
+    background-color: black;
+    font-family: 'Lobster Two', cursive;
+    font-size: 105%;
+    
+}
+
+#iconsforfooters
+{
+    width:150px;
+    height:150px;
+}
+
+#iconsforfooters1
+{
+  float:right;
+
+}
+
+.secondpagequote
+{
+    margin-top: 100px;
+    color:darkblue;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    font-size: 170%;
+}
+
+#thesecondmainimage
+{
+    width: 950px;
+    height: 450px;
+}
+#TheBandheading
+{
+    color: yellow;
+
+    font-size: 150%;
+}
+footer li
+{
+    list-style: none;
+
+}
+
+#findusOn
+{
+    color: yellow;
+    font-size: 150%;
+}
+
+.firstpiccontent
+{
+    font-family: 'Courgette', cursive;
+    font-size: 130%;
+}
+
+.secondpiccontent
+{
+    font-family: 'Courgette', cursive;
+    font-size: 130%;
+}
+
+.thirdpiccontent
+{
+    font-family: 'Courgette', cursive;
+    font-size: 130%;
+}
+
+
+.wrap1
+{
+   width:305px;
+   height:300px;
+}
+
+.wrap2
+{
+   width:305px;
+   height:300px;
+}
+
+.wrap3
+{
+   width:305px;
+   height:300px;
+
+}
+.wrap4
+{
+   width:305px;
+   height:300px;
+}
+
+.wrap5
+{
+   width:305px;
+   height:300px;
+}
+
+.wrap6
+{
+   width:305px;
+   height:300px;
+}
+
+.wrap7
+{
+   width:305px;
+   height:300px;
+}
+
+.wrap8
+{
+   width:305px;
+   height:300px;
+}
+
+.wrap9
+{
+   width:305px;
+   height:300px;
+}
+
+.wrap10
+{
+   width:305px;
+   height:300px;
+}
+
+.wrap11
+{
+   width:305px;
+   height:300px;
+}
+
+.wrap12
+{
+   width:305px;
+   height:300px;
+}
+
+
+
+.logogoogle
+{
+    width:150px;
+    height:150px;
+}
+
+.logojetblue{
+    width:150px;
+    height:150px;
+}
+
+.logomercedes
+{
+    width:150px;
+    height:150px;
+}
+
+#copyright
+{
+    color: yellow;
+}
